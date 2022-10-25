@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichelVGameMaker
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning that 24 hours a day is not enoguh
+- 🌱 I’m currently learning that 24 hours a day is not enough
 - 💞️ I’m looking to collaborate on a small 'finishable' game
 
 <!---
